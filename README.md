@@ -49,7 +49,7 @@ I see it has an admin page. Lets go check it out and see what is on the page in 
 **Step 4**
 
 The webpage doesn't seem to let us check it out because it's only accessible on an internal network. There has to be a vulnerability that is going to let us access the admin console. I checked the developer tools and source code to see if there but I found nothing interesting. Let's put it to the side for now. 
-
+*******
 <hr />
 
 **Step 5**
@@ -86,6 +86,6 @@ Let's click convert to PDF and see what happens.
 
 Tada, we have accessed the admin console and have received the flag for our challenge. 
 
-<img width="1282" height="773" alt="image" src="https://github.com/user-attachments/assets/1c59a872-613f-4751-89ee-8257d78400c7" />
+<img width="887" height="477" alt="image" src="https://github.com/user-attachments/assets/4de02d1d-5c9d-4d53-a4e8-eaeb24961c05" />
 
 flag{1f4a2b6ffeaf4707c43885d704eaee4b}
